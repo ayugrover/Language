@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="intent1">Numbers</string>
+    <string name="intent2">Family</string>
+    <string name="intent3">Colours</string>
+    <string name="intent4">Phrases</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
